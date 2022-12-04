@@ -23,11 +23,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmatullah99" alt="rahmatullah99" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahmtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahmtwt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/itsrahmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itsrahmat" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/amazingdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amazingdeveloper" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://www.dribbble.com/itsrahmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://www.dribbble.com/itsrahmat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//in/itsrahmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/itsrahmat" height="30" width="40" /></a>
+<a href="https://instagram.com/amazingdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amazingdeveloper" height="30" width="40" /></a>
+<a href="https://dribbble.com/itsrahmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="itsrahmat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
