@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahmtwt" target="blank"><img src="https://img.shields.io/twitter/follow/rahmtwt?logo=twitter&style=for-the-badge" alt="rahmtwt" /></a> </p>
 
-- 🔭 I’m currently working on **Healthcare AI App Mobile App**
+- 🔭 I’m currently working on **Healthcare AI App**
 
 - 🌱 I’m currently learning **Machine Learning**
 
