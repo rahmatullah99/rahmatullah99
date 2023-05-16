@@ -1,18 +1,18 @@
-![LinkedIn Banner (2)](https://user-images.githubusercontent.com/99873564/205486494-4e1a8fa4-91ab-4adb-a892-f4e96fc26aca.png)
+![LinkedIn Banner](https://github.com/rahmatullah99/rahmatullah99/assets/99873564/01a9f56f-5ece-4f9d-aeaf-089b7afe86ab)
 
 <h1 align="center">Hi 👋, I'm Rahmatullah</h1>
-<h3 align="center">Android Developer With Love For AI</h3>
+<h3 align="center">Flutter and Android Developer With Love For AI</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
 
 <p align="left"> <a href="https://twitter.com/rahmtwt" target="blank"><img src="https://img.shields.io/twitter/follow/rahmtwt?logo=twitter&style=for-the-badge" alt="rahmtwt" /></a> </p>
 
-- 🔭 I’m currently working on **AI Productivity Mobile App**
+- 🔭 I’m currently working on **Healthcare AI App Mobile App**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [byrahmat.com](byrahmat.com)
 
-- 💬 Ask me about **Android, Java, and AI**
+- 💬 Ask me about **Android, Java, Flutter, Dart, and AI**
 
 - 📫 How to reach me **rahmatjsr2@gmail.com**
 
